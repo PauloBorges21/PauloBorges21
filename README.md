@@ -35,7 +35,7 @@ Além disso, venho estudando:
 ### 📈 Estatísticas do GitHub
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=PauloBorges21&show_icons=true&theme=radical&count_private=true)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloBorges21&theme=dracula)
 ---
 
 ### 🤝 Vamos nos conectar?
