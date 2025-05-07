@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/62702351/177392762-8b3fe655-3388-4ea2-87c4-5efa449f9766.gif" width="100%" />
- ![Status](https://github.com/PauloBorges21/PauloBorges21/blob/main/profile-3d-contrib/profile-night-view.svg)
+ ![](https://github.com/PauloBorges21/PauloBorges21/blob/main/profile-3d-contrib/profile-night-view.svg)
 ### Olá! 👋
 
 Sou desenvolvedor .NET, apaixonado por criar aplicações web, APIs e serviços que realmente entregam valor. Com uma bagagem em QA e foco em boas práticas, busco sempre escrever código limpo, performático e bem estruturado.
