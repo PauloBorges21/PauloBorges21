@@ -3,9 +3,6 @@
 ### Olá! 👋
 
 Sou desenvolvedor .NET, apaixonado por criar aplicações web, APIs e serviços que realmente entregam valor. Com uma bagagem em QA e foco em boas práticas, busco sempre escrever código limpo, performático e bem estruturado.
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=PauloBorges21&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
 ---
 
 ### 🚀 Tecnologias que uso no dia a dia
@@ -35,6 +32,10 @@ Além disso, venho estudando:
 ---
 
 ### 📈 Estatísticas do GitHub
+
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=PauloBorges21&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=PauloBorges21&show_icons=true&theme=radical&count_private=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloBorges21&theme=dracula)
