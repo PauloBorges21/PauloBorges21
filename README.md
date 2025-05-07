@@ -32,7 +32,7 @@ Além disso, venho estudando:
 
 ### 📈 Estatísticas do GitHub
 
-   <div align="center" >
+   <div align="left" >
      <img src="https://github-profile-trophy.vercel.app/?username=PauloBorges21&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
 
